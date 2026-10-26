@@ -1,0 +1,39 @@
+{
+  "id": "e8a9b3d2-4f1c-4b7a-9a6d-8e5c3b1a2f4e",
+  "name": "GiroStockReportV2",
+  "publisher": "Digipar",
+  "version": "1.0.0.1",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "9ce4fc37-9a3e-4236-91a0-8b8034c51ad5",
+      "name": "Weitnauer PY Core",
+      "publisher": "Awara IT",
+      "version": "26.8.27.4"
+    }
+  ],
+  "screenshots": [],
+  "platform": "28.0.54016.0 ",
+  "application": "27.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "17.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}

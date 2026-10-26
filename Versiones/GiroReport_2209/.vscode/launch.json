@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Microsoft cloud sandbox",
+            "request": "launch",
+            "type": "al",
+            "environmentType": "Sandbox",
+            "environmentName": "ProdCopyPY",
+            "tenant": "04ba009e-87d6-4586-b5f8-cfb737e91778",
+            "startupCompany": "copia-28_06",
+            "startupObjectId": 50105,
+            "startupObjectType": "Report",
+            "breakOnError": "All",
+            "launchBrowser": true,
+            "enableLongRunningSqlStatements": true,
+            "enableSqlInformationDebugger": true
+        }
+    ]
+}
